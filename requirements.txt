@@ -1,0 +1,8 @@
+email_validator
+ip2geotools
+jupyterlab~=3.5.2
+matplotlib~=3.5.3
+numpy<=1.23.5
+pandas~=1.5
+phonenumbers
+scikit-learn==1.1.2
